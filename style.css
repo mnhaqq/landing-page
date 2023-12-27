@@ -144,3 +144,44 @@ ul {
     font-size: 20px;
     font-weight: 900;
 }
+
+.call-to-action {
+    padding: 100px 150px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.banner {
+    background-color: #3882f6;
+    padding: 50px 110px;
+    display: flex;
+    gap: 350px;
+    border-radius: 10px;
+}
+
+.banner-left {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: white;
+}
+
+.banner-title {
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.banner-info {
+    font-size: 17px;
+}
+
+.banner-button {
+    font-size: 16px;
+    background-color: #3882f6;
+    padding: 0px 20px;
+    color: white;
+    border-radius: 12px;
+    font-weight: bolder;
+    border: 3px solid rgb(249, 249, 252);
+}
