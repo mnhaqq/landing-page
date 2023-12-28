@@ -185,3 +185,12 @@ ul {
     font-weight: bolder;
     border: 3px solid rgb(249, 249, 252);
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #1f2937;
+    color: white;   
+    padding: 30px;
+}
